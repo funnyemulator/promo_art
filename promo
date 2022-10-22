@@ -1,0 +1,4 @@
+{"metalslug.pack.fcemu":[{"name":"MetalSlug","pkg":"metalslug.pack.fcemu","title":"MetalSlug Collection (included mslug 1,2,3,4,5,6,X)","promoImg":"https://raw.githubusercontent.com/funnyemulator/promo_art/main/icon_snk.png"},
+{"name":"RetroGames","pkg":"nes.snes.gba.n64.super8","title":"RetroGames (SuperMario, Contra, TankBattle, NES/SNES/GBA ...)","promoImg":"https://raw.githubusercontent.com/funnyemulator/promo_art/main/mario_pack.png"},
+{"name":"N64 Games","pkg":"n64.nes.snes.gba.hngames","title":"N64 Emulator (included games: SuperMario64, MortalKombat 4, Legend of Zelda 64, ...)","promoImg":"https://raw.githubusercontent.com/funnyemulator/promo_art/main/Super64Plus-N64-Emulator-MOD-APK-3.1.0.png"}
+]}
